@@ -15,7 +15,7 @@
             <BuildableReference
                BuildableIdentifier = "primary"
                BlueprintIdentifier = "322F04B617761FA000708F61"
-               BuildableName = "FileSorter.app"
+               BuildableName = "FileOrder.app"
                BlueprintName = "FileOrder"
                ReferencedContainer = "container:FileOrder.xcodeproj">
             </BuildableReference>
@@ -33,7 +33,7 @@
             <BuildableReference
                BuildableIdentifier = "primary"
                BlueprintIdentifier = "322F04D617761FA000708F61"
-               BuildableName = "FileSorterTests.octest"
+               BuildableName = "FileOrderTests.octest"
                BlueprintName = "FileOrderTests"
                ReferencedContainer = "container:FileOrder.xcodeproj">
             </BuildableReference>
@@ -43,7 +43,7 @@
          <BuildableReference
             BuildableIdentifier = "primary"
             BlueprintIdentifier = "322F04B617761FA000708F61"
-            BuildableName = "FileSorter.app"
+            BuildableName = "FileOrder.app"
             BlueprintName = "FileOrder"
             ReferencedContainer = "container:FileOrder.xcodeproj">
          </BuildableReference>
@@ -62,7 +62,7 @@
          <BuildableReference
             BuildableIdentifier = "primary"
             BlueprintIdentifier = "322F04B617761FA000708F61"
-            BuildableName = "FileSorter.app"
+            BuildableName = "FileOrder.app"
             BlueprintName = "FileOrder"
             ReferencedContainer = "container:FileOrder.xcodeproj">
          </BuildableReference>
@@ -80,7 +80,7 @@
          <BuildableReference
             BuildableIdentifier = "primary"
             BlueprintIdentifier = "322F04B617761FA000708F61"
-            BuildableName = "FileSorter.app"
+            BuildableName = "FileOrder.app"
             BlueprintName = "FileOrder"
             ReferencedContainer = "container:FileOrder.xcodeproj">
          </BuildableReference>

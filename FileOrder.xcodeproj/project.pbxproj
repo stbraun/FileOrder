@@ -16,7 +16,6 @@
 		322F04D917761FA000708F61 /* SenTestingKit.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 322F04D817761FA000708F61 /* SenTestingKit.framework */; };
 		322F04DA17761FA000708F61 /* Cocoa.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 322F04BA17761FA000708F61 /* Cocoa.framework */; };
 		322F04E217761FA000708F61 /* InfoPlist.strings in Resources */ = {isa = PBXBuildFile; fileRef = 322F04E017761FA000708F61 /* InfoPlist.strings */; };
-		322F04E517761FA000708F61 /* FileSorterTests.m in Sources */ = {isa = PBXBuildFile; fileRef = 322F04E417761FA000708F61 /* FileSorterTests.m */; };
 		322F04F017761FFB00708F61 /* Quartz.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 322F04EF17761FFB00708F61 /* Quartz.framework */; };
 		322F04F21776203100708F61 /* mac.iconset in Resources */ = {isa = PBXBuildFile; fileRef = 322F04F11776203100708F61 /* mac.iconset */; };
 		322F04FE17762BE200708F61 /* ISWindowController.m in Sources */ = {isa = PBXBuildFile; fileRef = 322F04FC17762BE200708F61 /* ISWindowController.m */; };
@@ -52,8 +51,6 @@
 		322F04D817761FA000708F61 /* SenTestingKit.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = SenTestingKit.framework; path = Library/Frameworks/SenTestingKit.framework; sourceTree = DEVELOPER_DIR; };
 		322F04DF17761FA000708F61 /* FileOrderTests-Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = "FileOrderTests-Info.plist"; sourceTree = "<group>"; };
 		322F04E117761FA000708F61 /* en */ = {isa = PBXFileReference; lastKnownFileType = text.plist.strings; name = en; path = en.lproj/InfoPlist.strings; sourceTree = "<group>"; };
-		322F04E317761FA000708F61 /* FileSorterTests.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = FileSorterTests.h; sourceTree = "<group>"; };
-		322F04E417761FA000708F61 /* FileSorterTests.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = FileSorterTests.m; sourceTree = "<group>"; };
 		322F04EE17761FCE00708F61 /* FileOrder.entitlements */ = {isa = PBXFileReference; lastKnownFileType = text.xml; path = FileOrder.entitlements; sourceTree = "<group>"; };
 		322F04EF17761FFB00708F61 /* Quartz.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = Quartz.framework; path = System/Library/Frameworks/Quartz.framework; sourceTree = SDKROOT; };
 		322F04F11776203100708F61 /* mac.iconset */ = {isa = PBXFileReference; lastKnownFileType = folder.iconset; path = mac.iconset; sourceTree = "<group>"; };
@@ -160,8 +157,6 @@
 		322F04DD17761FA000708F61 /* FileOrderTests */ = {
 			isa = PBXGroup;
 			children = (
-				322F04E317761FA000708F61 /* FileSorterTests.h */,
-				322F04E417761FA000708F61 /* FileSorterTests.m */,
 				322F04DE17761FA000708F61 /* Supporting Files */,
 			);
 			name = FileOrderTests;
@@ -299,7 +294,6 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				322F04E517761FA000708F61 /* FileSorterTests.m in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};

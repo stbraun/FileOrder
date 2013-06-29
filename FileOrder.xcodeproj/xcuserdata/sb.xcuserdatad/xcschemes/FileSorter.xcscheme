@@ -16,8 +16,8 @@
                BuildableIdentifier = "primary"
                BlueprintIdentifier = "322F04B617761FA000708F61"
                BuildableName = "FileSorter.app"
-               BlueprintName = "FileSorter"
-               ReferencedContainer = "container:FileSorter.xcodeproj">
+               BlueprintName = "FileOrder"
+               ReferencedContainer = "container:FileOrder.xcodeproj">
             </BuildableReference>
          </BuildActionEntry>
       </BuildActionEntries>
@@ -34,8 +34,8 @@
                BuildableIdentifier = "primary"
                BlueprintIdentifier = "322F04D617761FA000708F61"
                BuildableName = "FileSorterTests.octest"
-               BlueprintName = "FileSorterTests"
-               ReferencedContainer = "container:FileSorter.xcodeproj">
+               BlueprintName = "FileOrderTests"
+               ReferencedContainer = "container:FileOrder.xcodeproj">
             </BuildableReference>
          </TestableReference>
       </Testables>
@@ -44,8 +44,8 @@
             BuildableIdentifier = "primary"
             BlueprintIdentifier = "322F04B617761FA000708F61"
             BuildableName = "FileSorter.app"
-            BlueprintName = "FileSorter"
-            ReferencedContainer = "container:FileSorter.xcodeproj">
+            BlueprintName = "FileOrder"
+            ReferencedContainer = "container:FileOrder.xcodeproj">
          </BuildableReference>
       </MacroExpansion>
    </TestAction>
@@ -63,8 +63,8 @@
             BuildableIdentifier = "primary"
             BlueprintIdentifier = "322F04B617761FA000708F61"
             BuildableName = "FileSorter.app"
-            BlueprintName = "FileSorter"
-            ReferencedContainer = "container:FileSorter.xcodeproj">
+            BlueprintName = "FileOrder"
+            ReferencedContainer = "container:FileOrder.xcodeproj">
          </BuildableReference>
       </BuildableProductRunnable>
       <AdditionalOptions>
@@ -81,8 +81,8 @@
             BuildableIdentifier = "primary"
             BlueprintIdentifier = "322F04B617761FA000708F61"
             BuildableName = "FileSorter.app"
-            BlueprintName = "FileSorter"
-            ReferencedContainer = "container:FileSorter.xcodeproj">
+            BlueprintName = "FileOrder"
+            ReferencedContainer = "container:FileOrder.xcodeproj">
          </BuildableReference>
       </BuildableProductRunnable>
    </ProfileAction>
